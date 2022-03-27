@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:backgroundTint="#F44336"
-            android:onClick="visualizza"
+            android:onClick="viewDices"
             android:text="LANCIA"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
